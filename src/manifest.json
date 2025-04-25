@@ -1,0 +1,21 @@
+{
+    "name": "MyOnlineCookBook",
+    "short_name": "CookBook",
+    "icons": [
+        {
+            "src":"/img/cook_book_icon192x192.png",
+            "sizes":"192x192",
+            "type":"image/png"
+        },
+        {
+            "src":"/img/cook_book_icon512x512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#ffff90",
+    "background_color": "#ffffdd"
+
+}
